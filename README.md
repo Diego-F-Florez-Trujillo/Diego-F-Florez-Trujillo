@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="white.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="black.jpg">
-  <img alt="default-image" src="black.jpg">
+  <div style="text-align: center;">
+    <source media="(prefers-color-scheme: dark)" srcset="white.jpg" width="200" height="200">
+    <source media="(prefers-color-scheme: light)" srcset="black.jpg" width="200" height="200">
+    <img src="black.jpg" alt="default-image" width="200" height="200">
+  </div>
 </picture>
 
 # About me
