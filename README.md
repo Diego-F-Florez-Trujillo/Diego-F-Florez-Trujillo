@@ -1,8 +1,8 @@
 <picture>
   <div style="text-align: center;">
-    <source media="(prefers-color-scheme: dark)" srcset="white.jpg" width="200" height="200">
-    <source media="(prefers-color-scheme: light)" srcset="black.jpg" width="200" height="200">
-    <img src="black.jpg" alt="default-image" width="200" height="200">
+    <source media="(prefers-color-scheme: dark)" srcset="white.jpg" width="100" height="100">
+    <source media="(prefers-color-scheme: light)" srcset="black.jpg" width="100" height="100">
+    <img src="black.jpg" alt="default-image" width="100" height="100">
   </div>
 </picture>
 
