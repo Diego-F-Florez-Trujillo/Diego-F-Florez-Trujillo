@@ -16,7 +16,7 @@ My goal as a professor with an emphasis on simulation is to take students beyond
 
 <details>
   
-<summary> Interest </summary>
+<summary> Interests </summary>
 
 Currently, I am interested in topics such as Python, FDS (Fire Dynamics Simulator), FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics). These areas allow me to explore and apply my knowledge in simulation and systems analysis to solve complex engineering problems
 
